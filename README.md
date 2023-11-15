@@ -1,14 +1,14 @@
  ## <div align="center"> 👋Hi, my name is Viktor 
- ### ➡️&nbsp;About me:
+ ### ➡️ &nbsp;About me :
  - 🐞I'm working as Automation and Manual QA Engineer and testing Front-end and API
  - 🎢In my free time, I solve problems on Codewars and read tech articles
  - 🕹️I am interested in computer games and gym
 ---
-### ➡️&nbsp;You could contact with me by:
+### ➡️ &nbsp;You could contact with me by :
 [![Linkedin Badge](https://img.shields.io/badge/-ViktorBuhaiov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-buhaiov//)
 
 ---
-### ➡️&nbsp;Languages and tools:
+### ➡️&nbsp;Languages and tools :
 <div>
 <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/selenium-original.svg" title="SeleniumWebDriver" alt="SeleniumWebDriver" width="40" height="40"/>&nbsp;
   <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/postman-original.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp; 
