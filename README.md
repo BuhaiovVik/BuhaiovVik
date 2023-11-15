@@ -28,5 +28,6 @@
 ### ➡️ &nbsp;You could contact with me by :
 [![Linkedin Badge](https://img.shields.io/badge/-ViktorBuhaiov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-buhaiov//)
 [![Gmail Badge](https://img.shields.io/badge/-buhaiov.vik-red?style=flat&logo=Gmail&logoColor=white)](mailto:buhaiov.vik@gmail.com)
+<a href="mailto:buhaiov.vik@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 [![X Badge](https://img.shields.io/badge/-@ViktorBuhaiov-black?style=flat&logo=X&logoColor=white)](https://twitter.com/ViktorBuhaiov)
 <img align='right' src='https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/animation.gif' width='200"'>
