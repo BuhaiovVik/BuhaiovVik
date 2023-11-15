@@ -4,10 +4,6 @@
  - 🎢In my free time, I solve problems on Codewars and read tech articles
  - 🕹️I am interested in computer games and gym
 ---
-### ➡️ &nbsp;You could contact with me by :
-[![Linkedin Badge](https://img.shields.io/badge/-ViktorBuhaiov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-buhaiov//)
-
----
 ### ➡️&nbsp;Languages and tools :
 <div>
 <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/selenium-original.svg" title="SeleniumWebDriver" alt="SeleniumWebDriver" width="40" height="40"/>&nbsp;
@@ -27,4 +23,10 @@
 <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/safari-original.svg" title="Safari" alt="Safari" width="40" height="40"/>&nbsp;
 <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/opera-original.svg" title="Opera" alt="Opera" width="40" height="40"/>&nbsp;
 </div>
+
+---
+### ➡️ &nbsp;You could contact with me by :
+[![Linkedin Badge](https://img.shields.io/badge/-ViktorBuhaiov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-buhaiov//)
+[![Gmail Badge](https://img.shields.io/badge/-buhaiov.vik-red?style=flat&logo=Gmail&logoColor=white)](buhaiov.vik@gmail.com)
+[![X Badge](https://img.shields.io/badge/-@ViktorBuhaiov-black?style=flat&logo=X&logoColor=white)](https://twitter.com/ViktorBuhaiov)
 <img align='right' src='https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/animation.gif' width='200"'>
