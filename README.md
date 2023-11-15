@@ -24,9 +24,11 @@
 <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/opera-original.svg" title="Opera" alt="Opera" width="40" height="40"/>&nbsp;
 </div>
 
+
 ---
-### ➡️ &nbsp;You could contact with me by :
+
+### ➡️ &nbsp;You could contact with me by:                                                           
 [![Linkedin Badge](https://img.shields.io/badge/-ViktorBuhaiov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-buhaiov//) 
 [![Gmail Badge](https://img.shields.io/badge/-buhaiov.vik-red?style=flat&logo=Gmail&logoColor=white)](mailto:buhaiov.vik@gmail.com)
 [![X Badge](https://img.shields.io/badge/-@ViktorBuhaiov-black?style=flat&logo=X&logoColor=white)](https://twitter.com/ViktorBuhaiov) 
-<img align='right' src='https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/animation.gif' width='150"'>
+<img align='right' src='https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/anim3.gif' width='300'>
