@@ -1,8 +1,8 @@
  ## <div align="center"> 👋Hi, my name is Viktor 
  ### ➡️ &nbsp;About me :
- - 🐞I'm working as Automation and Manual QA Engineer and testing Front-end and API
- - 🎢In my free time, I solve problems on Codewars and read tech articles
- - 🕹️Also I like playing computer games and do gym
+ - 🐞I'm working as an Automation and Manual QA Engineer and testing Front-end and API
+ - 🎢In my free time I solve problems on Codewars and read tech articles
+ - 🕹️Also I like playing computer games and working out
 ---
 ### ➡️&nbsp;Languages and tools :
 <div>
