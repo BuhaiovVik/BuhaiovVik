@@ -2,7 +2,7 @@
  ### ➡️ &nbsp;About me :
  - 🐞I'm working as Automation and Manual QA Engineer and testing Front-end and API
  - 🎢In my free time, I solve problems on Codewars and read tech articles
- - 🕹️Also I am interested in computer games and gym
+ - 🕹️Also I like playing computer games and do gym
 ---
 ### ➡️&nbsp;Languages and tools :
 <div>
