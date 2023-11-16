@@ -7,18 +7,18 @@
 ### ➡️&nbsp;Languages and tools :
 <div>
 <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/selenium-original.svg" title="SeleniumWebDriver" alt="SeleniumWebDriver" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/postman-original.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp; 
- <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/nodejs-original.svg" title="NodeJSgle" alt="NodeJS" width="40" height="40"/>&nbsp; 
- <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/postman-original.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/nodejs-original.svg" title="NodeJSgle" alt="NodeJS" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+<img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
 <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
 <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+<img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
 <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/chrome-original.svg" title="Chrome" alt="Chrome" width="40" height="40"/>&nbsp;
 <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/safari-original.svg" title="Safari" alt="Safari" width="40" height="40"/>&nbsp;
 <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/opera-original.svg" title="Opera" alt="Opera" width="40" height="40"/>&nbsp;
