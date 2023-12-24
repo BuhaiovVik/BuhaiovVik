@@ -7,6 +7,7 @@
 ### ➡️&nbsp;Languages and tools :
 <div>
 <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/selenium-original.svg" title="SeleniumWebDriver" alt="SeleniumWebDriver" width="40" height="40"/>&nbsp;
+<img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/playwright.svg" title="Playwright" alt="Playwright" width="50" height="50"/>&nbsp;
 <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/postman-original.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/nodejs-original.svg" title="NodeJSgle" alt="NodeJS" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/BuhaiovVik/BuhaiovVik/blob/main/icons/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp; 
